@@ -19,9 +19,8 @@ To create a request:
 
 | Type | Use it for |
 | --- | --- |
-| ☁️ **Azure** | Subscriptions, resource groups, access/RBAC, networking, deployments, cost queries |
-| 📧 **Office 365** | User accounts, licences, mailboxes, Teams, SharePoint, distribution groups |
-| 🛠️ **Support** | General IT help, troubleshooting, access issues and anything else |
+| 📝 **Request** | Asking for something new or a change, such as access, accounts, licences, Azure resources, Office 365 changes or deployments |
+| 🚨 **Incident** | Something is broken, down or not working as expected, such as outages, errors, failed deployments or access suddenly lost |
 
 > 💡 **Tip:** The more context you provide (environment, urgency, screenshots, error messages), the faster we can help.
 
