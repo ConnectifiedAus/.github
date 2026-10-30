@@ -3,6 +3,8 @@
 Welcome to the **ConnectifiedAus** GitHub organisation. This is where our team collaborates on AI,code,requests and productivity.
 
 ---
+## Documentation
+[Shared][https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Connectified] - All shared documentation for all
 
 ## 📬 Need something? Raise a request
 
