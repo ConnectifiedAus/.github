@@ -4,7 +4,7 @@ Welcome to the **ConnectifiedAus** GitHub organisation. This is where our team c
 
 ---
 ## Documentation
-[Shared](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Connectified) - All shared documentation for all
+[Shared](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Home-%E2%80%90-Connectified) - All shared documentation for all
 
 ## 📬 Need something? Raise a request
 
