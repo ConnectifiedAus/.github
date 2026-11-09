@@ -4,7 +4,8 @@ Welcome to the **ConnectifiedAus** GitHub organisation. This is where our team c
 
 ---
 ## Documentation
-[Shared](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Home-%E2%80%90-Connectified) - All shared documentation for all
+- [Maximize Copilot Token](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Maximizing-GitHub-Copilot-AI-Credits)
+- [Best Practices - Prompts](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Best-Practices-for-Writing-Copilot-Prompts)
 
 ## 📬 Need something? Raise a request
 
