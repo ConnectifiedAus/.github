@@ -6,6 +6,7 @@ Welcome to the **ConnectifiedAus** GitHub organisation. This is where our team c
 ## Documentation
 - [Home](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki)
 - [Get Started - Set Up GitHub Copilot in VS Code and Visual Studio](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Setting-Up-GitHub-Copilot)
+- [GitHub Copilot - Enabled Features and Available Models](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/GitHub-Copilot-Features-and-Models)
 - [Best Practices - Maximize Copilot Token](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Maximizing-GitHub-Copilot-AI-Credits)
 - [Best Practices - Prompts](https://github.com/ConnectifiedAus/cntf-shared-projects/wiki/Best-Practices-for-Writing-Copilot-Prompts)
 
